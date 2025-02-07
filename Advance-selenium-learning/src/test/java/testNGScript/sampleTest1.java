@@ -2,6 +2,7 @@ package testNGScript;
 
 import org.testng.annotations.Test;
 //shobha
+..smoke branch
 public class sampleTest1 {
 	@Test(invocationCount=2)
 	public void createcontact() {
