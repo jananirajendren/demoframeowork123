@@ -4,6 +4,9 @@ import org.testng.annotations.Test;
 //shobha
 
 reg2 branch
+
+..smoke branch
+
 public class sampleTest1 {
 	@Test(invocationCount=2)
 	public void createcontact() {
